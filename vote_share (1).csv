@@ -1,0 +1,679 @@
+district,state,year,vote_share
+kupwara,jammu kashmir,2014,40.392
+baramulla,jammu kashmir,2014,35.325714285714284
+bandipora,jammu kashmir,2014,42.169999999999995
+ganderbal,jammu kashmir,2014,41.75
+srinagar,jammu kashmir,2014,44.885
+budgam,jammu kashmir,2014,43.041999999999994
+pulwama,jammu kashmir,2014,39.61
+shopian,jammu kashmir,2014,38.335
+kulgam,jammu kashmir,2014,40.5325
+anantnag,jammu kashmir,2014,43.603333333333325
+leh,jammu kashmir,2014,47.64
+kargil,jammu kashmir,2014,46.849999999999994
+kishtwar,jammu kashmir,2014,46.15
+doda,jammu kashmir,2014,35.980000000000004
+ramban,jammu kashmir,2014,36.474999999999994
+reasi,jammu kashmir,2014,34.166666666666664
+udhampur,jammu kashmir,2014,49.48333333333334
+kathua,jammu kashmir,2014,51.754
+samba,jammu kashmir,2014,48.265
+jammu,jammu kashmir,2014,51.60636363636363
+rajouri,jammu kashmir,2014,37.4625
+poonch,jammu kashmir,2014,39.92333333333334
+chamba,himachal pradesh,2012,46.914
+kangra,himachal pradesh,2012,45.211333333333336
+lahaul spiti,himachal pradesh,2012,60.33
+kullu,himachal pradesh,2012,41.325
+mandi,himachal pradesh,2012,46.262
+hamirpur,uttar pradesh,2012,49.49142857142857
+una,himachal pradesh,2012,49.303999999999995
+bilaspur,chhattisgarh,2012,47.245000000000005
+solan,himachal pradesh,2012,43.146
+sirmour,himachal pradesh,2012,48.010000000000005
+shimla,himachal pradesh,2012,53.525
+kinnaur,himachal pradesh,2012,54.09
+pathankot,punjab,2012,45.50666666666667
+gurdaspur,punjab,2012,52.1157142857143
+amritsar,punjab,2012,50.95454545454545
+tarn taran,punjab,2012,46.94499999999999
+kapurthala,punjab,2012,48.99
+jalandhar,punjab,2012,43.60444444444445
+hoshiarpur,punjab,2012,46.9775
+nawanshahr,punjab,2012,34.49333333333333
+rup nagar,punjab,2012,42.22
+s a s nagar,punjab,2012,44.34666666666667
+fatehgarh sahib,punjab,2012,37.583333333333336
+ludhiana,punjab,2012,47.82071428571428
+moga,punjab,2012,46.1775
+firozpur,punjab,2012,48.8725
+fazilka,punjab,2012,43.2675
+mukatsar,punjab,2012,45.695
+faridkot,punjab,2012,45.093333333333334
+bathinda,punjab,2012,43.306666666666665
+mansa,punjab,2012,40.35
+sangrur,punjab,2012,43.255714285714284
+barnala,punjab,2012,45.92666666666667
+patiala,punjab,2012,51.46
+uttarkashi,uttarakhand,2012,38.696666666666665
+chamoli,uttarakhand,2012,31.573333333333334
+rudraprayag,uttarakhand,2012,35.845
+tehri garhwal,uttarakhand,2012,36.71333333333333
+dehradun,uttarakhand,2012,42.571
+haridwar,uttarakhand,2012,36.387272727272716
+pauri garhwal,uttarakhand,2012,41.660000000000004
+pithoragarh,uttarakhand,2012,47.605000000000004
+bageshwar,uttarakhand,2012,41.205
+almora,uttarakhand,2012,38.94
+champawat,uttarakhand,2012,49.79
+nainital,uttarakhand,2012,40.61833333333333
+udham singh nagar,uttarakhand,2012,42.290000000000006
+panchkula,haryana,2014,47.355000000000004
+ambala,haryana,2014,40.434999999999995
+yamunanagar,haryana,2014,45.135
+kurukshetra,haryana,2014,39.6725
+kaithal,haryana,2014,33.03
+karnal,haryana,2014,37.652
+panipat,haryana,2014,43.6425
+sonipat,haryana,2014,38.35
+jind,haryana,2014,37.67999999999999
+fatehabad,haryana,2011,45.15
+sirsa,haryana,2014,38.715999999999994
+hisar,haryana,2011,48.06
+bhiwani,haryana,2014,33.69833333333333
+rohtak,haryana,2014,46.275
+jhajjar,haryana,2014,36.334999999999994
+mahendragarh,haryana,2014,43.93749999999999
+rewari,haryana,2014,48.370000000000005
+gurgaon,haryana,2014,47.00749999999999
+mewat,haryana,2014,37.126666666666665
+palwal,haryana,2014,36.199999999999996
+faridabad,haryana,2014,44.428333333333335
+north west delhi,delhi,2013,41.544000000000004
+north east delhi,delhi,2013,36.682
+chandni chowk,delhi,2013,37.31099999999999
+new delhi,delhi,2013,40.023
+west delhi,delhi,2013,37.67700000000001
+south delhi,delhi,2013,37.266000000000005
+east delhi,delhi,2013,41.208999999999996
+ganganagar,rajasthan,2013,38.48833333333334
+hanumangarh,rajasthan,2013,39.524
+bikaner,rajasthan,2013,47.535714285714285
+churu,rajasthan,2013,48.291666666666664
+jhunjhunu,rajasthan,2013,44.980000000000004
+sikar,rajasthan,2013,43.432500000000005
+jaipur,rajasthan,2013,48.724736842105266
+alwar,rajasthan,2013,46.03727272727272
+bharatpur,rajasthan,2013,38.64714285714286
+dholpur,rajasthan,2013,39.629999999999995
+karauli,rajasthan,2013,37.349999999999994
+dausa,rajasthan,2013,36.176
+sawai madhopur,rajasthan,2013,38.3025
+tonk,rajasthan,2013,47.6225
+ajmer,rajasthan,2013,50.591249999999995
+nagaur,rajasthan,2013,49.339
+pali,rajasthan,2013,51.681666666666665
+jodhpur,rajasthan,2013,53.831999999999994
+jaisalmer,rajasthan,2013,54.07
+barmer,rajasthan,2013,50.88428571428572
+jalore,rajasthan,2013,53.589999999999996
+sirohi,rajasthan,2013,50.91
+udaipur,rajasthan,2013,49.470000000000006
+pratapgarh,uttar pradesh,2012,41.55571428571428
+dungarpur,rajasthan,2013,46.462500000000006
+banswara,rajasthan,2013,48.674
+chittorgarh,rajasthan,2013,48.764
+rajsamand,rajasthan,2013,53.4275
+bhilwara,rajasthan,2013,52.980000000000004
+bundi,rajasthan,2013,44.89000000000001
+kota,rajasthan,2013,51.905
+baran,rajasthan,2013,51.05499999999999
+jhalawar,rajasthan,2013,54.5575
+saharanpur,uttar pradesh,2012,35.831428571428575
+prabuddha nagar,uttar pradesh,2012,35.96666666666666
+muzaffarnagar,uttar pradesh,2012,32.413333333333334
+bijnor,uttar pradesh,2012,33.35875
+moradabad,uttar pradesh,2012,34.251666666666665
+bheem nagar,uttar pradesh,2012,35.056666666666665
+rampur,uttar pradesh,2012,33.946
+jyotiba phule nagar,uttar pradesh,2012,33.08
+meerut,uttar pradesh,2012,32.52428571428571
+baghpat,uttar pradesh,2012,40.449999999999996
+ghaziabad,uttar pradesh,2012,34.772000000000006
+panchsheel nagar,uttar pradesh,2012,38.11
+gautam budh nagar,uttar pradesh,2012,38.45666666666667
+bulandshahr,uttar pradesh,2012,32.612857142857145
+aligarh,uttar pradesh,2012,34.26428571428571
+mahamaya nagar,uttar pradesh,2012,36.17666666666667
+mathura,uttar pradesh,2012,37.998333333333335
+agra,uttar pradesh,2012,37.44111111111111
+firozabad,uttar pradesh,2012,43.147999999999996
+kanshiram nagar,uttar pradesh,2012,28.223333333333333
+etah,uttar pradesh,2012,35.695
+mainpuri,uttar pradesh,2012,42.7175
+badaun,uttar pradesh,2012,35.80125
+bareilly,uttar pradesh,2012,31.894444444444446
+pilibhit,uttar pradesh,2012,36.3325
+shahjahanpur,uttar pradesh,2012,34.14833333333333
+lakhimpur kheri,uttar pradesh,2012,36.09428571428571
+kheri,uttar pradesh,2012,28.86
+sitapur,uttar pradesh,2012,36.3811111111111
+hardoi,uttar pradesh,2012,38.7025
+unnao,uttar pradesh,2012,34.71
+lucknow,uttar pradesh,2012,33.35333333333333
+rae bareli,uttar pradesh,2012,33.898
+chhatrapathi shahuji maharaj gar,uttar pradesh,2012,33.230000000000004
+sultanpur,uttar pradesh,2012,41.8825
+farrukhabad,uttar pradesh,2012,27.46
+kannauj,uttar pradesh,2012,39.78333333333333
+etawah,uttar pradesh,2012,46.776666666666664
+auraiya,uttar pradesh,2012,38.650000000000006
+ramabai nagar,uttar pradesh,2012,33.942499999999995
+kanpur grameen,uttar pradesh,2012,33.985
+kanpur nagar,uttar pradesh,2012,35.788333333333334
+jalaun,uttar pradesh,2012,28.59
+jhansi,uttar pradesh,2012,32.089999999999996
+lalitpur,uttar pradesh,2012,27.494999999999997
+mahoba,uttar pradesh,2012,29.980000000000004
+banda,uttar pradesh,2012,31.042499999999997
+chitrakoot,uttar pradesh,2012,31.065
+fatehpur,uttar pradesh,2012,32.11166666666667
+kaushambi,uttar pradesh,2012,34.85
+allahabad,uttar pradesh,2012,34.06916666666667
+barabanki,uttar pradesh,2012,35.723333333333336
+faizabad,uttar pradesh,2012,37.894000000000005
+ambedkar nagar,uttar pradesh,2012,47.102000000000004
+bahraich,uttar pradesh,2012,28.791428571428565
+shravasti,uttar pradesh,2012,33.004999999999995
+balrampur,chhattisgarh,2012,31.527499999999996
+gonda,uttar pradesh,2012,36.910000000000004
+siddharth nagar,uttar pradesh,2012,31.357999999999993
+basti,uttar pradesh,2012,36.404
+sant kabir nagar,uttar pradesh,2012,29.863333333333333
+maharajganj,uttar pradesh,2012,31.526
+gorakhpur,uttar pradesh,2012,35.65222222222222
+kushinagar,uttar pradesh,2012,27.921428571428574
+deoria,uttar pradesh,2012,33.45142857142857
+azamgarh,uttar pradesh,2012,39.318000000000005
+mau,uttar pradesh,2012,30.877499999999998
+ballia,uttar pradesh,2012,34.43571428571429
+jaunpur,uttar pradesh,2012,34.47666666666667
+ghazipur,uttar pradesh,2012,36.707142857142856
+chandauli,uttar pradesh,2012,35.1275
+varanasi,uttar pradesh,2012,30.869999999999997
+sant ravidas nagar,uttar pradesh,2012,45.553333333333335
+mirzapur,uttar pradesh,2012,34.647999999999996
+sonbhadra,uttar pradesh,2012,29.965000000000003
+west champaran,bihar,2014,50.6
+east champaran,bihar,2014,29.02
+sheohar,bihar,2015,29.71
+sitamarhi,bihar,2015,41.69499999999999
+madhubani,bihar,2014,48.16
+supaul,bihar,2015,51.496
+araria,bihar,2015,50.58833333333334
+kishanganj,bihar,2014,32.65
+purnea,bihar,2011,50.73
+katihar,bihar,2015,37.74285714285715
+madhepura,bihar,2015,47.4925
+saharsa,bihar,2015,49.745000000000005
+darbhanga,bihar,2014,40.18
+muzaffarpur,bihar,2015,44.340909090909086
+gopalganj,bihar,2015,40.86166666666667
+siwan,bihar,2014,28.1
+saran,bihar,2014,44.47
+vaishali,bihar,2014,38.8
+samastipur,bihar,2013,46.03
+begusarai,bihar,2014,39.01
+khagaria,bihar,2015,44.69
+khagari a,bihar,2014,63.53
+bhagalpur,bihar,2014,56.09
+banka,bihar,2014,45.59
+munger,bihar,2015,44.97666666666667
+lakhisarai,bihar,2015,45.495000000000005
+sheikhpura,bihar,2015,37.265
+nalanda,bihar,2015,44.892857142857146
+patna,bihar,2015,48.37928571428571
+bhojpur,bihar,2015,41.35285714285714
+buxor,bihar,2015,49.95
+buxar,bihar,2015,44.695
+kaimur bhabhua,bihar,2015,35.895
+kaimur,bihar,2014,53.69
+rohtas,bihar,2015,41.75142857142857
+arwal,bihar,2015,42.62
+ar wal,bihar,2015,37.79
+jahanabad,bihar,2015,49.87
+aurangabad,maharashtra,2014,34.226666666666674
+gaya,bihar,2015,45.675
+nawada,bihar,2015,44.496
+jamui,bihar,2015,39.0625
+west,sikkim,2014,59.863749999999996
+south,sikkim,2014,60.18
+east,sikkim,2014,53.54583333333333
+north,sikkim,2014,55.42666666666667
+sangha,sikkim,2014,49.86
+tawang,arunachal pradesh,2014,80.06333333333333
+west kameng,arunachal pradesh,2014,69.22749999999999
+east kameng,arunachal pradesh,2014,75.3
+papum pare,arunachal pradesh,2014,85.11333333333333
+lower subansiri,arunachal pradesh,2014,50.35
+kurung kumey,arunachal pradesh,2014,76.455
+upper subansiri,arunachal pradesh,2014,71.186
+west siang,arunachal pradesh,2014,51.260000000000005
+upper siang,arunachal pradesh,2014,48.765
+east siang,arunachal pradesh,2014,61.61800000000001
+dibang valley,arunachal pradesh,2014,52.26
+lower dibang valley,arunachal pradesh,2014,55.575
+lohit,arunachal pradesh,2014,53.919999999999995
+anjaw,arunachal pradesh,2014,77.68
+changlang,arunachal pradesh,2014,54.326
+tirap,arunachal pradesh,2014,43.465
+dimapur,nagaland,2013,45.25
+peren,nagaland,2013,44.945
+kohima,nagaland,2013,60.56428571428571
+pughoboto,nagaland,2013,59.42
+phek,nagaland,2013,49.134
+mokokchung,nagaland,2011,55.89
+zunheboto,nagaland,2013,55.52833333333333
+wokha,nagaland,2013,43.440000000000005
+mon,nagaland,2013,54.47888888888889
+longleng,nagaland,2013,56.08
+tuensang,nagaland,2013,48.443749999999994
+kiphire,nagaland,2013,57.474999999999994
+imphal east,manipur,2012,44.61363636363637
+imphal west,manipur,2012,40.72076923076923
+bishnupur,manipur,2012,42.723333333333336
+thoubal,manipur,2012,52.648
+chandel,manipur,2012,40.765
+ukhrul,manipur,2012,36.92333333333333
+senapati,manipur,2012,49.71333333333334
+tamenglong,manipur,2012,47.57666666666666
+churachandpur,manipur,2012,50.156666666666666
+mamit,mizoram,2013,44.81
+kolasib,mizoram,2013,39.23333333333334
+tuivawl,mizoram,2013,42.124
+champhai,mizoram,2013,43.658
+serchhip,mizoram,2013,39.74
+lunglei,mizoram,2013,50.80285714285714
+lawngtlai,mizoram,2013,56.93333333333334
+saiha,mizoram,2013,53.239999999999995
+west tripura,tripura,2012,56.13
+south tripura,tripura,2013,56.073571428571434
+dhalai,tripura,2013,50.555
+north tripura,tripura,2013,50.82636363636364
+west jaintia hills,meghalaya,2013,42.36
+east jaintia hills,meghalaya,2013,42.644999999999996
+ri bhoi,meghalaya,2013,42.174
+east khasi hills,meghalaya,2013,42.8864705882353
+west khasi hills,meghalaya,2013,38.419999999999995
+south west khasi hills,meghalaya,2013,33.68
+east garo hills,meghalaya,2013,34.65
+north garo hills,meghalaya,2013,38.99666666666667
+west garo hills,meghalaya,2013,32.67
+south west garo hills,meghalaya,2013,51.24333333333333
+south garo hills,meghalaya,2013,31.25
+karimganj,assam,2011,41.238
+hailakandi,assam,2011,50.57333333333333
+silchar,assam,2011,51.82142857142857
+n c hills,assam,2011,57.04
+bokajan,assam,2011,54.01
+diphu,assam,2011,48.275
+hamren,assam,2011,49.49
+south salmara,assam,2011,48.205
+dhubri,assam,2011,42.49333333333333
+bilasipara,assam,2011,36.43
+gossaigaon,assam,2011,46.89
+kokrajhar,assam,2011,60.345
+bogaigaon,assam,2011,40.78
+bijni,assam,2011,41.83
+north salmara,assam,2011,39.28
+goalpara,assam,2011,37.2625
+barpeta,assam,2011,46.03
+bajali,assam,2011,30.905
+kamrup,assam,2011,39.5925
+kamrup metro,assam,2011,46.3775
+rangia,assam,2011,33.215
+nalbari,assam,2011,46.50333333333333
+udalguri,assam,2011,37.519999999999996
+mangaldoi,assam,2011,43.22
+tezpur,assam,2011,41.882
+biswanath chariali,assam,2011,47.974999999999994
+gohpur,assam,2011,46.67
+morigaon,assam,2011,48.52333333333333
+nagaon,assam,2011,46.63714285714286
+kaliabor,assam,2011,49.56
+hojai,assam,2011,41.93666666666666
+bokakhat,assam,2011,34.54
+dhansiri,assam,2011,50.39
+golaghat,assam,2011,56.325
+jorhat,assam,2011,60.28333333333333
+majuli,assam,2011,46.36
+titabor,assam,2011,60.525000000000006
+sibsagar,assam,2011,46.31
+nazira,assam,2011,63.4
+charaideo sonari,assam,2011,50.545
+lakhimpur,assam,2011,41.333333333333336
+dhakuakhana,assam,2011,50.31
+dhemaji,assam,2011,42.64
+jonai,assam,2011,52.89
+dibrugarh,assam,2011,47.42142857142857
+tinsukia,assam,2011,43.73
+margherita,assam,2011,52.15
+sadiya,assam,2011,44.95
+cooch behar,west bengal,2011,46.832222222222214
+jalpaiguri,west bengal,2011,41.73083333333333
+darjeeling,west bengal,2011,62.615
+uttar dinajpur,west bengal,2011,45.778888888888886
+dakshin dinajpur,west bengal,2011,48.919999999999995
+maldah,west bengal,2011,46.231666666666676
+murshidabad,west bengal,2011,46.66909090909092
+nadia,west bengal,2011,50.44117647058823
+north twenty four parganas,west bengal,2011,54.11117647058824
+south twenty four parganas,west bengal,2011,52.88483870967742
+kolkata corporation,west bengal,2011,61.122499999999995
+howrah,west bengal,2011,53.149375
+hooghly,west bengal,2011,54.93
+purba medinipur,west bengal,2011,52.388124999999995
+paschim medinipur,west bengal,2011,50.35631578947368
+purulia,west bengal,2011,46.86333333333333
+bankura,west bengal,2011,47.839166666666664
+bardhaman,west bengal,2011,50.89520000000002
+birbhum,west bengal,2011,47.74272727272728
+sahebganj,jharkhand,2014,40.76
+pakaur,jharkhand,2014,37.86333333333334
+dumka,jharkhand,2014,38.832499999999996
+jamtara,jharkhand,2014,34.44
+deoghar,jharkhand,2014,37.84666666666667
+godda,jharkhand,2014,41.166666666666664
+kodarma,jharkhand,2014,42.88
+hazaribagh,jharkhand,2011,31.29
+ramgarh,jharkhand,2014,39.15
+chatra,jharkhand,2014,37.42
+giridih,jharkhand,2014,35.873333333333335
+bokaro,jharkhand,2014,48.2
+dhanbad,jharkhand,2014,40.67166666666667
+east singhbhum,jharkhand,2014,42.76166666666666
+saraikela kharsawan,jharkhand,2011,55.34
+west singhbhum,jharkhand,2014,44.87
+ranchi,jharkhand,2012,27.35
+khunti,jharkhand,2014,35.01
+gumla,jharkhand,2014,35.95333333333333
+simdega,jharkhand,2014,36.485
+lohardaga,jharkhand,2014,38.81
+latehar,jharkhand,2014,34.575
+palamau,jharkhand,2014,29.266000000000002
+garhwa,jharkhand,2014,32.375
+bargarh,orissa,2014,40.204
+jharsuguda,orissa,2014,39.945
+sundargarh,orissa,2014,36.57571428571429
+sambalpur,orissa,2014,40.4775
+deogarh,orissa,2014,53.87
+keonjhar,orissa,2014,44.593333333333334
+mayurbhanj,orissa,2014,33.93444444444444
+balasore,orissa,2014,43.82875
+bhadrak,orissa,2014,46.712
+jajpur,orissa,2014,53.895714285714284
+dhenkanal,orissa,2014,43.2425
+angul,orissa,2014,43.818
+subarnapur,orissa,2014,48.855000000000004
+balangir,orissa,2014,38.928000000000004
+nuapada,orissa,2014,35.44
+nabarangpur,orissa,2011,45.13
+kalahandi,orissa,2014,36.983999999999995
+kandhamal,orissa,2014,41.24
+boudh,orissa,2014,45.614999999999995
+cuttack,orissa,2012,65.88
+kendrapara,orissa,2014,49.774
+jagatsinghpur,orissa,2014,48.9525
+puri,orissa,2014,49.326666666666675
+khurda,orissa,2014,52.46125
+nayagarh,orissa,2014,52.475
+ganjam,orissa,2014,52.72307692307693
+gajapati,orissa,2014,37.54
+rayagada,orissa,2014,42.263333333333335
+koraput,orissa,2014,43.2
+malkangiri,orissa,2014,37.465
+koria,chhattisgarh,2013,37.160000000000004
+surajpur,chhattisgarh,2013,43.86666666666667
+surguja,chhattisgarh,2013,49.21
+jashpur,chhattisgarh,2013,49.85666666666666
+raigarh,chhattisgarh,2013,51.036
+korba,chhattisgarh,2013,45.13999999999999
+mungeli,chhattisgarh,2013,40.665
+janjgir champa,chhattisgarh,2013,38.375
+mahasamund,chhattisgarh,2013,43.8625
+balodabazar,chhattisgarh,2013,43.0625
+raipur,chhattisgarh,2013,48.70142857142857
+gariaband,chhattisgarh,2013,49.31
+dhamtari,chhattisgarh,2013,46.18
+balod,chhattisgarh,2011,47.37
+durg,chhattisgarh,2013,47.824285714285715
+bemetara,chhattisgarh,2013,45.03
+kabirdham,chhattisgarh,2013,41.775
+rajnandgaon,chhattisgarh,2013,45.24333333333333
+uttar bastar kanker,chhattisgarh,2013,44.38333333333333
+kondagaon,chhattisgarh,2013,43.336666666666666
+bastar jagdalpur,chhattisgarh,2013,47.54
+dakshin bastar dantewada,chhattisgarh,2013,38.23
+bijapur,karnataka,2013,37.69222222222223
+sukuma,chhattisgarh,2013,36.4
+sheopur,madhya pradesh,2013,42.655
+morena,madhya pradesh,2013,38.446666666666665
+bhind,madhya pradesh,2013,36.856
+gwalior,madhya pradesh,2013,43.49833333333333
+datia,madhya pradesh,2013,36.4
+shivpuri,madhya pradesh,2013,42.384
+guna,madhya pradesh,2013,59.03
+ashok nagar,madhya pradesh,2013,50.910000000000004
+sagar,madhya pradesh,2013,50.43499999999999
+tikamgarh,madhya pradesh,2013,42.324
+chhatarpur,madhya pradesh,2013,40.11333333333334
+damoh,madhya pradesh,2011,43.6
+panna,madhya pradesh,2013,38.556666666666665
+satna,madhya pradesh,2013,37.49571428571428
+rewa,madhya pradesh,2013,34.167500000000004
+sidhi,madhya pradesh,2013,45.8725
+singrauli,madhya pradesh,2013,40.76
+shahdol,madhya pradesh,2013,42.50333333333333
+anuppur,madhya pradesh,2013,45.27
+umaria,madhya pradesh,2013,45.14
+katni,madhya pradesh,2013,44.432500000000005
+jabalpur,madhya pradesh,2013,52.16125
+dindori,madhya pradesh,2013,43.325
+mandla,madhya pradesh,2013,41.50333333333334
+balaghat,madhya pradesh,2013,44.205000000000005
+seoni,madhya pradesh,2013,41.205
+narsinghpur,madhya pradesh,2013,54.2625
+chhindwara,madhya pradesh,2013,45.01857142857143
+betul,madhya pradesh,2013,52.146
+harda,madhya pradesh,2013,49.974999999999994
+hoshangabad,madhya pradesh,2013,56.622499999999995
+raisen,madhya pradesh,2013,53.572500000000005
+vidisha,madhya pradesh,2013,48.634
+bhopal,madhya pradesh,2013,56.55714285714287
+sehore,madhya pradesh,2013,51.574999999999996
+rajgarh,madhya pradesh,2013,54.226
+shajapur,madhya pradesh,2013,48.592000000000006
+dewas,madhya pradesh,2011,54.82
+khandwa,madhya pradesh,2013,53.657500000000006
+burhanpur,madhya pradesh,2013,52.34
+khargone,madhya pradesh,2012,57.37
+barwani,madhya pradesh,2013,49.8125
+alirajpur,madhya pradesh,2013,45.26
+jhabua,madhya pradesh,2013,43.22
+dhar,madhya pradesh,2011,53.71
+indore,madhya pradesh,2013,55.95
+ujjain,madhya pradesh,2013,52.047142857142866
+ratlam,madhya pradesh,2013,50.61
+mandsaur,madhya pradesh,2013,49.925000000000004
+neemuch,madhya pradesh,2013,44.97666666666667
+kachchh,gujarat,2012,46.39833333333333
+banaskantha,gujarat,2012,47.47777777777778
+patan,gujarat,2012,48.2425
+mahesana,gujarat,2012,51.478571428571435
+sabarkantha,gujarat,2012,51.317499999999995
+arvalli,gujarat,2012,52.46333333333333
+gandhinagar,gujarat,2012,48.346
+ahmedabad,gujarat,2012,59.426666666666655
+surendranagar,gujarat,2012,48.788
+morbi,gujarat,2012,43.116666666666674
+rajkot,gujarat,2012,48.677499999999995
+jamnagar,gujarat,2012,46.676
+devbhumi dwarka,gujarat,2012,48.68
+porbandar,gujarat,2012,52.663333333333334
+junagadh,gujarat,2012,48.709999999999994
+gir somnath,gujarat,2012,44.089999999999996
+amreli,gujarat,2012,39.81400000000001
+bhavnagar,gujarat,2012,51.964285714285715
+botad,gujarat,2012,46.295
+anand,gujarat,2012,50.35285714285714
+kheda,gujarat,2012,47.24571428571429
+mahisagar,gujarat,2012,49.175
+panchmahal,gujarat,2012,48.626
+dahod,gujarat,2012,56.73500000000001
+vadodra,gujarat,2012,55.477
+chhota udepur,gujarat,2012,43.333333333333336
+narmada,gujarat,2012,43.614999999999995
+bharuch,gujarat,2012,51.822
+surat,gujarat,2012,58.229375
+tapi,gujarat,2012,47.864999999999995
+dangs,gujarat,2012,45.32
+navsari,gujarat,2012,53.03
+valsad,gujarat,2012,53.74399999999999
+nandurbar,maharashtra,2014,41.9775
+dhule,maharashtra,2014,44.71
+jalgaon,maharashtra,2014,43.31272727272727
+buldhana,maharashtra,2014,37.17714285714286
+akola,maharashtra,2014,36.022000000000006
+washim,maharashtra,2014,33.2275
+amravati,maharashtra,2014,35.9675
+wardha,maharashtra,2014,39.35249999999999
+nagpur,maharashtra,2014,47.034166666666664
+bhandara,maharashtra,2014,36.38333333333333
+gondiya,maharashtra,2014,34.34
+gadchiroli,maharashtra,2014,38.50666666666667
+chandrapur,maharashtra,2014,39.526666666666664
+yavatmal,maharashtra,2013,53.19
+nanded,maharashtra,2014,40.98
+hingoli,maharashtra,2014,39.11666666666667
+parbhani,maharashtra,2014,33.6725
+jalna,maharashtra,2014,34.104
+nashik,maharashtra,2014,40.90200000000001
+thane,maharashtra,2014,38.17291666666668
+mumbai suburban,maharashtra,2014,41.42269230769231
+mumbai city,maharashtra,2014,39.46900000000001
+raigad,maharashtra,2014,38.02
+pune,maharashtra,2011,50.26
+ahmednagar,maharashtra,2014,46.00916666666668
+beed,maharashtra,2012,47.65
+latur,maharashtra,2014,42.311666666666675
+osmanabad,maharashtra,2014,38.3075
+solapur,maharashtra,2014,40.841818181818184
+satara,maharashtra,2014,45.298750000000005
+ratnagiri,maharashtra,2014,46.45
+district sindhudurg,maharashtra,2014,48.846666666666664
+kolhapur,maharashtra,2013,50.65
+sangli,maharashtra,2014,47.06375
+adilabad,telangana,2012,49.34
+nizamabad,telangana,2011,67.75
+karimanagar,telangana,2014,48.33153846153846
+medak,telangana,2014,48.706999999999994
+rangareddi,telangana,2014,39.730714285714285
+hyderabad,telangana,2014,49.17066666666667
+mahabubnagar,telangana,2012,34.99
+nalgonda,telangana,2014,38.223333333333336
+warangal,telangana,2012,40.44500000000001
+khammam,telangana,2014,35.532
+srikakulam,andhra pradesh,2012,38.96
+vizianagaram,andhra pradesh,2014,45.45666666666667
+vishakapatnam,andhra pradesh,2012,41.88
+east godavari,andhra pradesh,2012,49.93
+west godavari,andhra pradesh,2012,50.415
+krishna,andhra pradesh,2013,81.55
+guntur,andhra pradesh,2012,47.755
+prakasam,andhra pradesh,2012,48.8
+nellore,andhra pradesh,2012,44.41
+kadapa,andhra pradesh,2011,70.09
+kurnool,andhra pradesh,2012,47.375
+anantapur,andhra pradesh,2012,49.620000000000005
+chittoor,andhra pradesh,2012,43.29
+belgaum,karnataka,2013,45.263888888888886
+bagalkot,karnataka,2013,45.93571428571429
+gulbarga,karnataka,2013,42.89333333333334
+yadgir,karnataka,2013,37.3475
+bidar,karnataka,2013,41.291666666666664
+raichur,karnataka,2013,39.24857142857143
+koppal,karnataka,2011,44.87
+gadag,karnataka,2013,45.815
+dharwad,karnataka,2013,41.874285714285705
+uttara kannada,karnataka,2013,39.89000000000001
+haveri,karnataka,2013,43.61333333333334
+bellary,karnataka,2011,60.41
+chitradurga,karnataka,2013,43.13833333333334
+davanagere,karnataka,2011,35.87
+shimoga,karnataka,2013,41.01857142857143
+udupi,karnataka,2013,54.498000000000005
+chickmagalur,karnataka,2013,39.516
+tumkur,karnataka,2013,41.82181818181819
+chikballapur,karnataka,2013,44.596000000000004
+kolar,karnataka,2011,46.99
+bangalore,karnataka,2013,47.325
+bangalore rural,karnataka,2013,41.6375
+ramanagara,karnataka,2011,50.6
+mandya,karnataka,2013,46.144285714285715
+hassan,karnataka,2013,46.58428571428572
+dakshina kannada,karnataka,2013,48.863749999999996
+kodagu,karnataka,2013,42.04
+mysore,karnataka,2013,42.25181818181818
+chamarajanagar,karnataka,2013,38.815
+north goa,goa,2012,54.16956521739131
+south goa,goa,2012,49.881176470588244
+kasaragod,kerala,2011,45.660000000000004
+kannur,kerala,2011,52.75
+wayanad,kerala,2011,50.95333333333334
+kozhikode,kerala,2011,48.13999999999999
+malappuram,kerala,2011,54.718125
+palakkad,kerala,2011,50.43416666666666
+thrissur,kerala,2011,49.841538461538455
+ernakulam,kerala,2011,51.26428571428571
+idukki,kerala,2011,51.193999999999996
+kottayam,kerala,2011,51.169999999999995
+alappuzha,kerala,2011,51.55333333333333
+pathanamthitta,kerala,2011,48.668
+kollam,kerala,2011,52.382727272727266
+thiruvananthapuram,kerala,2011,48.24142857142858
+tiruvallur,tamil nadu,2011,54.363
+chennai,tamil nadu,2011,53.71749999999999
+kanchipuram,tamil nadu,2011,52.83818181818181
+vellore,tamil nadu,2011,51.17999999999999
+krishnagiri,tamil nadu,2011,50.28333333333333
+dharmapuri,tamil nadu,2011,50.571999999999996
+tiruvannamalai,tamil nadu,2011,51.837500000000006
+villupuram,tamil nadu,2011,53.31181818181817
+salem,tamil nadu,2011,55.60181818181818
+namakkal,tamil nadu,2011,53.776666666666664
+erode,tamil nadu,2011,56.13375
+tirupur,tamil nadu,2011,57.057500000000005
+nilgiris,tamil nadu,2011,60.23333333333333
+coimbatore,tamil nadu,2011,57.665000000000006
+dindigul,tamil nadu,2011,55.27571428571429
+karur,tamil nadu,2011,55.12
+tiruchirappalli,tamil nadu,2011,51.56699999999999
+perambalur,tamil nadu,2011,49.54
+ariyalur,tamil nadu,2011,49.650000000000006
+cuddalore,tamil nadu,2011,51.82444444444445
+nagapattinam,tamil nadu,2011,48.555
+tiruvarur,tamil nadu,2011,54.0525
+thanjavur,tamil nadu,2011,48.01500000000001
+pudukkottai,tamil nadu,2011,51.68
+sivaganga,tamil nadu,2011,49.69
+madurai,tamil nadu,2011,57.396
+theni,tamil nadu,2011,51.72
+virudhunagar,tamil nadu,2011,53.85
+ramanathapuram,tamil nadu,2011,46.705000000000005
+thoothukudi,tamil nadu,2011,53.919999999999995
+tirunelveli,tamil nadu,2011,50.513
+kanniyakumari,tamil nadu,2011,42.541666666666664
+puducherry,pondicherry,2011,58.934583333333336
+karaikal,pondicherry,2011,48.036
+mahe,pondicherry,2011,60.51
+yanam,pondicherry,2011,80.95
